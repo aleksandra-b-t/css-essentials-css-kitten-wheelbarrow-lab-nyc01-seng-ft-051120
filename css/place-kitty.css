@@ -11,7 +11,7 @@
 
 /*__write_selector_here__*/ .kitty-2 {
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   top: 100px;
   left: 369px;
 }
